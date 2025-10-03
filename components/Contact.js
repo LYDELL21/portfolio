@@ -5,10 +5,13 @@ import { Mail, Linkedin, Phone } from "lucide-react";
 
 export default function Contact() {
   return (
-    <footer id="contact" className="py-12 bg-gray-900/70 backdrop-blur-md border-t border-gray-800">
+    <footer
+      id="contact"
+      className="py-12 bg-gray-900/70 backdrop-blur-md border-t border-gray-800"
+    >
       <div className="max-w-4xl mx-auto text-center text-gray-300">
         <h3 className="text-2xl font-bold mb-6 bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-          Let's Connect
+          Let&apos;s Connect
         </h3>
 
         <div className="flex flex-col sm:flex-row justify-center gap-6 items-center text-gray-300">
